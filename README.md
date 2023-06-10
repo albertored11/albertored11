@@ -1,6 +1,6 @@
 ## `$ whoami`
 
-I am Alberto Redondo, aka Herbort, a 24-year-old computer enthusiast.
+I am Alberto Redondo, aka Herbort, a 25-year-old computer enthusiast.
 
 Ever since I was a kid, I've always been interested in technology, especially in computers, and I used to spend hours in front of my PC, tinkering with anything that caught my attention. I didn't achieve big things (I didn't even learn a single programming language), but I've always been interested in learning more and more, and people around me said computers were my thing and now I think they were right.
 
